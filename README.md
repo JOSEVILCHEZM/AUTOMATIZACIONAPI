@@ -2,14 +2,13 @@
 
 **Flow end to end testing**
 
- ✅Listar usuarios de un servicio
+ ✅List users of a service
  
- ✅Obtener un usuario por id
+ ✅Get a user by id
  
- ✅Crear un nuevo usuario
-
- ✅Eliminar un usuario por id
+ ✅Create a new user
  
- ✅Actualizar un usuario existente
-
-
+ ✅ Delete a user by id
+ 
+ ✅Update an existing user
+ 
